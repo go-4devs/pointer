@@ -20,7 +20,7 @@ func ToComplex64(in complex64) *complex64 {
 	return &in
 }
 
-// ToFLoat32 get pointer float32
+// ToFloat32 get pointer float32
 func ToFloat32(in float32) *float32 {
 	return &in
 }
